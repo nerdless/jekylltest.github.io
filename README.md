@@ -1,2 +1,0 @@
-# jekylltest.io
-Jekyll test
